@@ -1,3 +1,5 @@
+ #input[1, 2, 3]
+#output [ 1,2, 4]
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
         dig_len = len(digits)
