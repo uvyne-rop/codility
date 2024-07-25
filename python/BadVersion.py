@@ -1,5 +1,5 @@
 class Solution:
-    def fBadVersion(self, n):
+    def BadVersion(self, n):
 
         left = 1
         right = n
